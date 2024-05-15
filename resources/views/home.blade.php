@@ -65,6 +65,24 @@
                 </div>
 
             </div>
+
+            <!-- Top 10 Movies Sections -->
+            <div class="mt-12">
+                <span class="ml-28 font-bold text-xl">Top 10 Filmes</span>
+            </div>
+            
+            <div class=" w-auto flex flex-row overflow-x-auto pl-28 pt-6 pb-10">
+                <a href="movie/id" class="group">
+                    <div class="min-w-[232px] min-h-[428px] bg-white drop-shadow-[0_0px_8px_rgba(0,0,0,0.25)] group-hover:drop-shadow-[0_0px_8px_rgba(0,0,0,0.5)] rounded-[32px] p-5 flex flex-col mr-8 duration-100">
+                        <div>
+                            <img class="w-full h-[300px] rounded-[32px] group-hover:scale-125 duration-200" src="https://via.placeholder.com/232x300"/>
+                        </div>
+                        <span class="font-inter font-bold text-xl mt-4 line-clamp-1 group -hover:line-clam-node" >Titulo</span>
+                        <span class="font-inter text-sm mt-1">2024</span>
+                    </div>
+                </a>
+            </div>
+
         </div>
 
         <script>
