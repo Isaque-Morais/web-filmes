@@ -64,3 +64,16 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+Criar o .env 
+
+Add as variaveis de ambiente para consumo da api  
+
+Instalar: npm install laravel-mix --save-dev
+
+Comandos para rodar o projeto local: 
+
+php artisan serve 
+
+npm run dev
